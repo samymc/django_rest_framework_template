@@ -1,0 +1,29 @@
+https://www.youtube.com/watch?v=tQZy0U8s9LY
+
+Python Menu
+https://www.youtube.com/watch?v=ZBx7oWCJ4aY
+
+Modulos y paquetes
+https://www.youtube.com/watch?v=rwUVwxh5N74
+
+Variables de entorno
+https://www.youtube.com/watch?v=E0Ys_ntvshY
+
+Entornos virtuales
+https://www.youtube.com/watch?v=TNtrAvNNxTY
+
+Compartir Proyectos de Python (Entornos virtuales)
+https://www.youtube.com/watch?v=SXVdnEGetPI
+
+POO Python
+https://www.youtube.com/watch?v=oI330C-RQWc
+
+Crear ejecutable .exe desde python
+https://www.youtube.com/watch?v=qORN56tScEU
+https://www.youtube.com/watch?v=Vr9vl0qlggE
+
+Open CV
+https://www.youtube.com/watch?v=oXlwWbU8l2o
+
+Django Rest Framework
+https://www.youtube.com/watch?v=Xts8NmyAc8c
